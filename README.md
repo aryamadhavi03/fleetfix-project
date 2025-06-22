@@ -1,42 +1,66 @@
 🚛 FleetFix – AI-Powered Vehicle Maintenance Predictor
 ⚙️ Smarter Fleets. Safer Roads. Lower Costs.
-
-
 🚀 What is FleetFix?
-FleetFix is a web-based machine learning solution that predicts vehicle maintenance needs for logistics companies. It helps fleet owners minimize breakdowns, reduce repair costs, and improve safety using AI.
+FleetFix is a web-based AI/ML-powered solution that predicts vehicle maintenance needs for logistics companies. It enables fleet managers to:
 
-📦 Built to solve real-world problems faced by logistics businesses like Sairam Logistics.
+🚫 Minimize breakdowns
+
+💰 Reduce repair costs
+
+🛡️ Improve vehicle safety
+
+🎯 Purpose-built to solve real-world logistics issues for companies like Sairam Logistics.
 
 💡 Key Features
+✨ Built with logistics in mind, FleetFix offers:
+
 ✅ Predictive Maintenance Alerts
 
-✅ Real-time Vehicle Data Input
+🔄 Real-time Vehicle Data Input
 
-✅ Maintenance History Logs
+🧾 Maintenance History Logs
 
-✅ GPS & Weather Data Integration
+📍 GPS & Weather Data Integration
 
-✅ PDF/CSV Report Generation
+📄 PDF/CSV Report Generation
 
-✅ Clean Dashboard & Analytics
+📊 Clean Dashboard & Analytics
 
 🧠 Powered by AI
-Model Used: Random Forest Classifier
+Model Used: Random Forest Classifier (Scikit-learn)
 
-📊 Accurate predictions using real-time & historical data
+🔍 Predicts issues based on real-time & historical data
 
-🔍 Highlights critical factors like brake health, mileage, and tire condition
+🚨 Flags critical factors like:
+
+Brake health
+
+Mileage
+
+Tire condition
 
 ⚙️ Tech Stack
-Frontend	Backend	Machine Learning	Deployment
+🖼️ Frontend	⚙️ Backend	🧠 Machine Learning	☁️ Deployment
 HTML, CSS, JS	Node.js / Express	Python (Scikit-learn)	Docker + AWS EC2
 
+📈 Results & Impact
+✅ 35% Reduction in simulated breakdowns
 
+💸 Significant cost savings from predictive servicing
 
-📈 Results
-✅ Simulated breakdowns reduced by 35%
+⏱️ Lower delays and reduced operational downtime
 
-💸 Improved cost savings via smart servicing
+🌱 Green Logistics
+FleetFix supports eco-friendly transport by:
 
-📉 Lower delays and operational downtime
+🌿 Reducing fuel wastage
 
+📉 Lowering carbon emissions
+
+🔄 Promoting efficient resource utilization
+
+📎 Inspired by research:
+
+IEEE: Predictive Maintenance Using ML
+
+Correlation-Aware Maintenance Prediction
