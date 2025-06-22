@@ -1,66 +1,85 @@
-🚛 FleetFix – AI-Powered Vehicle Maintenance Predictor
-⚙️ Smarter Fleets. Safer Roads. Lower Costs.
-🚀 What is FleetFix?
-FleetFix is a web-based AI/ML-powered solution that predicts vehicle maintenance needs for logistics companies. It enables fleet managers to:
+# 🚛 FleetFix – AI-Powered Vehicle Maintenance Predictor  
+### ⚙️ Smarter Fleets. Safer Roads. Lower Costs.
 
-🚫 Minimize breakdowns
+---
 
-💰 Reduce repair costs
+## 🚀 What is FleetFix?
 
-🛡️ Improve vehicle safety
+**FleetFix** is a web-based **AI/ML-powered solution** that predicts vehicle maintenance needs for logistics companies. It helps fleet owners:
 
-🎯 Purpose-built to solve real-world logistics issues for companies like Sairam Logistics.
+- 🚫 Minimize breakdowns  
+- 💰 Reduce repair costs  
+- 🛡️ Improve safety
 
-💡 Key Features
-✨ Built with logistics in mind, FleetFix offers:
+> 🔧 Built to solve real-world problems faced by logistics companies like **Sairam Logistics**.
 
-✅ Predictive Maintenance Alerts
+---
 
-🔄 Real-time Vehicle Data Input
+## 💡 Key Features
 
-🧾 Maintenance History Logs
+- ✅ Predictive Maintenance Alerts  
+- 🔄 Real-time Vehicle Data Input  
+- 🧾 Maintenance History Logs  
+- 📍 GPS & Weather Data Integration  
+- 📄 PDF/CSV Report Generation  
+- 📊 Clean Dashboard & Analytics
 
-📍 GPS & Weather Data Integration
+---
 
-📄 PDF/CSV Report Generation
+## 🧠 Powered by AI
 
-📊 Clean Dashboard & Analytics
+**Model Used:** `Random Forest Classifier`
 
-🧠 Powered by AI
-Model Used: Random Forest Classifier (Scikit-learn)
+- 📊 Accurate predictions using **real-time** and **historical** vehicle data  
+- 🔍 Highlights key indicators like:
+  - Brake health  
+  - Mileage  
+  - Tire condition
 
-🔍 Predicts issues based on real-time & historical data
+---
 
-🚨 Flags critical factors like:
+## ⚙️ Tech Stack
 
-Brake health
+| Frontend       | Backend           | Machine Learning       | Deployment        |
+|----------------|-------------------|-------------------------|-------------------|
+| HTML, CSS, JS  | Node.js / Express | Python (Scikit-learn)   | Docker + AWS EC2  |
 
-Mileage
+---
 
-Tire condition
+## 🖼️ System Overview
 
-⚙️ Tech Stack
-🖼️ Frontend	⚙️ Backend	🧠 Machine Learning	☁️ Deployment
-HTML, CSS, JS	Node.js / Express	Python (Scikit-learn)	Docker + AWS EC2
+### 📌 Sequence Diagram  
+![Sequence Diagram](assets/sequence_diagram.png) <!-- Replace with actual image path -->
 
-📈 Results & Impact
-✅ 35% Reduction in simulated breakdowns
+### 🛠️ System Architecture  
+![System Architecture](assets/system_architecture.png) <!-- Replace with actual image path -->
 
-💸 Significant cost savings from predictive servicing
+---
 
-⏱️ Lower delays and reduced operational downtime
+## 📈 Results
 
-🌱 Green Logistics
-FleetFix supports eco-friendly transport by:
+- ✅ **35% Reduction** in simulated breakdowns  
+- 💸 **Cost savings** via smart servicing  
+- 📉 **Reduced delays** and **operational downtime**
 
-🌿 Reducing fuel wastage
+---
 
-📉 Lowering carbon emissions
+## 🌱 Green Logistics
 
-🔄 Promoting efficient resource utilization
+FleetFix contributes to sustainable transportation by:
 
-📎 Inspired by research:
+- 🌿 Reducing fuel waste  
+- 🔄 Optimizing maintenance cycles  
+- 📉 Lowering carbon emissions
 
-IEEE: Predictive Maintenance Using ML
+---
 
-Correlation-Aware Maintenance Prediction
+## 📚 References
+
+- [IEEE: Predictive Maintenance Using Machine Learning](#)
+- [Correlation-Aware Maintenance Prediction](#)
+
+---
+
+
+
