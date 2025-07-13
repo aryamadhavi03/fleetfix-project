@@ -65,22 +65,21 @@ FleetFix continuously analyzes real-time and historical data to predict when and
 ## 📌 **System Overview**
 
 ### ✅ **System Architecture**
-![System Architecture](<img width="1211" height="503" alt="image" src="https://github.com/user-attachments/assets/92779b1a-5b18-4a3d-bb2a-d7cfde89968b" />
-)
+<img width="1211" height="503" alt="Screenshot 2025-07-13 150447" src="https://github.com/user-attachments/assets/c62a079f-1dfa-41c2-816f-82864bd0dd09" />
+
 
 ### ✅ **Methodology Diagram**
-![Use Case Diagram](<img width="1128" height="465" alt="image" src="https://github.com/user-attachments/assets/e2617143-067e-4e0e-a8a7-0c6fe235231a" />
-)
+<img width="1128" height="465" alt="Screenshot 2025-07-13 150607" src="https://github.com/user-attachments/assets/8d4fd58e-36d6-43f0-a9c4-3bc5a8c07a47" />
+
 
 ---
 
 ## 📜 **Industry Certification**
 
-We are proud to share that **FleetFix** has received industry recognition and certification from **Shivraj Enterprise**, validating its effectiveness and real-world applicability.  
-![Industrial Certificate](https://drive.google.com/uc?export=view&id=1m2ZNdHUhk5uleRzDfp3Nz8b7COTO4z2c)
- <!-- Replace with your certificate image -->
+We are proud to share that **FleetFix** has received industry recognition and certification from **Shivraj Enterprise**, validating its effectiveness and real-world applicability.
 
----
+[**Industrial Certificate**](https://drive.google.com/file/d/1m2ZNdHUhk5uleRzDfp3Nz8b7COTO4z2c/view?usp=sharing)
+
 
 ## 📈 **Results & Impact**
 
